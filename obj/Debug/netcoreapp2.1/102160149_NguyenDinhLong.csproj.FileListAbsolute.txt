@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\bin\Debug\netcoreapp2.1\102160149_NguyenDinhLong.deps.json
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\bin\Debug\netcoreapp2.1\102160149_NguyenDinhLong.runtimeconfig.json
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\bin\Debug\netcoreapp2.1\102160149_NguyenDinhLong.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\bin\Debug\netcoreapp2.1\102160149_NguyenDinhLong.dll
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\bin\Debug\netcoreapp2.1\102160149_NguyenDinhLong.pdb
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\obj\Debug\netcoreapp2.1\102160149_NguyenDinhLong.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\obj\Debug\netcoreapp2.1\102160149_NguyenDinhLong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\obj\Debug\netcoreapp2.1\102160149_NguyenDinhLong.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\obj\Debug\netcoreapp2.1\102160149_NguyenDinhLong.AssemblyInfo.cs
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\obj\Debug\netcoreapp2.1\102160149_NguyenDinhLong.dll
+C:\Users\Admin\Desktop\102160149_NguyenDinhLong\obj\Debug\netcoreapp2.1\102160149_NguyenDinhLong.pdb
