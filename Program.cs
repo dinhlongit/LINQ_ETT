@@ -24,7 +24,7 @@ namespace _102160149_NguyenDinhLong {
             Console.WriteLine ("\n\nSau khi them 1 Sinh Vien: \n");
             ql.showListSinhVien ();
 
-            //------update 1 sinh vien------      
+            ///------update 1 sinh vien------      
             ql.editSinhVien (102155555);
             Console.WriteLine ("\n\nSau khi sua 1 Sinh Vien: \n");
             ql.showListSinhVien ();
